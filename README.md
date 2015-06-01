@@ -1,5 +1,5 @@
 
-# EZConf ![godoc reference](https://godoc.org/github.com/josler/ezconf?status.png)
+# EZConf [![GoDoc](http://godoc.org/github.com/josler/ezconf?status.png)](http://godoc.org/github.com/josler/ezconf)
 
 EZConf is a really dumb config parser.
 
